@@ -1,0 +1,4 @@
+azure-core==1.21.1
+azure-identity==1.7.1
+azure-purview-scanning==1.0.0b2
+azure-purview-catalog==1.0.0b2
